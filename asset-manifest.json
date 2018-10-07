@@ -1,15 +1,14 @@
 {
-  "main.css": "static/css/main.6b1c441c.css",
-  "main.css.map": "static/css/main.6b1c441c.css.map",
-  "main.js": "static/js/main.bf61dd41.js",
-  "main.js.map": "static/js/main.bf61dd41.js.map",
+  "main.css": "static/css/main.d2dc7acd.css",
+  "main.css.map": "static/css/main.d2dc7acd.css.map",
+  "main.js": "static/js/main.3eaec348.js",
+  "main.js.map": "static/js/main.3eaec348.js.map",
   "static\\media\\HindMadurai-Bold.ttf": "static/media/HindMadurai-Bold.0eb87cf9.ttf",
   "static\\media\\HindMadurai-Regular.ttf": "static/media/HindMadurai-Regular.e10c38fc.ttf",
   "static\\media\\Lora-BoldItalic.ttf": "static/media/Lora-BoldItalic.04f84cd5.ttf",
   "static\\media\\Signika-Bold.ttf": "static/media/Signika-Bold.004efa12.ttf",
   "static\\media\\Signika-Regular.ttf": "static/media/Signika-Regular.648d0e76.ttf",
-  "static\\media\\Signika-Semibold.ttf": "static/media/Signika-Semibold.10af76c0.ttf",
-  "static\\media\\food-icons.svg": "static/media/food-icons.a51bc25a.svg",
+  "static\\media\\food-icons.svg": "static/media/food-icons.b02029fa.svg",
   "static\\media\\food.png": "static/media/food.8256c4a0.png",
   "static\\media\\third.png": "static/media/third.f7820c71.png"
 }
